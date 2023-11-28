@@ -4,7 +4,7 @@ Made by Alexander Jensen, adjensen@ucsd.edu
 
 ## Quarter 2 Project Questions
 1. **What is the most interesting topic covered in your domain this quarter?**
-I think the most interesting topic that was covered would have to be 
+I think the most interesting topic that was covered would have to be simply diffusion models in general. Despite such a very small algorithm, as long as the network is complex enough, new images are able to be generated without being exact copies of the dataset. I think this is a very interesting and powerful ability of generative models, as they can be used to help possibly add more diversity and new views to old ideas.
 2. **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 A potential investigation I would like to pursue would be the use of generative models on either 3d models in fashion-design. Given how novel and unique fashion pieces become, I wonder if a generative model would still be able to design clothes that can fit humans and also adjust to given styles of fashion. It would also be very interesting if we could derive elements from multiple fashion-styles into one new outfit.
 3. **What is a potential change you’d make to the approach taken in your current Quarter 1 Project?**
